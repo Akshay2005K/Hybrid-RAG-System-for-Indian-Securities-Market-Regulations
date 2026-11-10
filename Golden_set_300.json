@@ -1,0 +1,2488 @@
+[
+  {
+    "id": "q01",
+    "question": "What is a Systematic Withdrawal Plan, and how does it differ from redeeming an entire mutual-fund investment at once?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      26
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q02",
+    "question": "If I invest Rs. 10 lakh and set up an SWP of Rs. 20,000 per month, what happens to the remaining corpus?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      26
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q03",
+    "question": "What is an ETF, and what does its value depend on?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      2
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q04",
+    "question": "What is the difference between NAV-based redemption and an exit load in a mutual fund?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      1
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q05",
+    "question": "What is a securities market, and what role does it play in moving savings to investment?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      179
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for mutual funds, NAV, SIP, SWP, ETFs, loads, and investor suitability?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q053",
+    "relevant_chunk_ids": [
+      1
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for secondary-market trading, orders, brokerage, margins, and settlement?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q057",
+    "relevant_chunk_ids": [
+      332
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q06",
+    "question": "Why can trading derivatives require more understanding of risk than buying an ordinary share?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      190
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about financial planning, securities, mutual funds, derivatives, commodities, and complaints can an investor learn from this document?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q066",
+    "relevant_chunk_ids": [
+      1009
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for capital-market basics, trading, clearing, settlement, pledging, and investor protection?",
+    "doc_id": "nse_pragati_basics_capital_markets_2024.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q069",
+    "relevant_chunk_ids": [
+      406
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q07",
+    "question": "What is an Exchange Traded Fund and how is its value linked to the underlying assets?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      215
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for IPOs, book building, ASBA, UPI, allotment, and listing?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q073",
+    "relevant_chunk_ids": [
+      2949
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about IPOs, book building, ASBA, UPI, allotment, and listing can an investor learn from this document?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q074",
+    "relevant_chunk_ids": [
+      2949
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for ASBA IPO applications, eligibility, demat accounts, bids, and allotment?",
+    "doc_id": "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q077",
+    "relevant_chunk_ids": [
+      360
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about ASBA IPO applications, eligibility, demat accounts, bids, and allotment can an investor learn from this document?",
+    "doc_id": "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q078",
+    "relevant_chunk_ids": [
+      360
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q08",
+    "question": "What investor-protection or grievance route is described for a complaint that is not resolved by an intermediary?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      218
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for UPI with ASBA, mandates, blocking and unblocking funds, limits, and public issues?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q081",
+    "relevant_chunk_ids": [
+      936
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to SEBI findings on trading behaviour, options buyers and sellers, frequency, and losses are defined in this document?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q088",
+    "relevant_chunk_ids": [
+      6696
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for SEBI findings on trading behaviour, options buyers and sellers, frequency, and losses?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q089",
+    "relevant_chunk_ids": [
+      6684
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q09",
+    "question": "What does T+1 rolling settlement mean in the equity market?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      233
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about SEBI findings on trading behaviour, options buyers and sellers, frequency, and losses can an investor learn from this document?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q090",
+    "relevant_chunk_ids": [
+      6682
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for the T+1 rolling settlement transition and its market-infrastructure roadmap?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q093",
+    "relevant_chunk_ids": [
+      233
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about the T+1 rolling settlement transition and its market-infrastructure roadmap can an investor learn from this document?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q094",
+    "relevant_chunk_ids": [
+      233
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q10",
+    "question": "From what trade date did the roadmap begin introducing T+1 settlement for stocks?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      233
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to KYC, client onboarding, trading accounts, demat accounts, and required documents are defined in this document?",
+    "doc_id": "sebi_kyc_account_opening.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q100",
+    "relevant_chunk_ids": [
+      3525
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for KYC, client onboarding, trading accounts, demat accounts, and required documents?",
+    "doc_id": "sebi_kyc_account_opening.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q101",
+    "relevant_chunk_ids": [
+      3525
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about KYC, client onboarding, trading accounts, demat accounts, and required documents can an investor learn from this document?",
+    "doc_id": "sebi_kyc_account_opening.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q102",
+    "relevant_chunk_ids": [
+      3525
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to rights issues, rights entitlements, application, pricing, and investor decisions are defined in this document?",
+    "doc_id": "sebi_rights_issue_2025.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q104",
+    "relevant_chunk_ids": [
+      5826
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for rights issues, rights entitlements, application, pricing, and investor decisions?",
+    "doc_id": "sebi_rights_issue_2025.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q105",
+    "relevant_chunk_ids": [
+      5826
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about rights issues, rights entitlements, application, pricing, and investor decisions can an investor learn from this document?",
+    "doc_id": "sebi_rights_issue_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q106",
+    "relevant_chunk_ids": [
+      5826
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to dividends, bonus shares, stock splits, record dates, and corporate actions are defined in this document?",
+    "doc_id": "sebi_corporate_actions_2025.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q108",
+    "relevant_chunk_ids": [
+      797
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for dividends, bonus shares, stock splits, record dates, and corporate actions?",
+    "doc_id": "sebi_corporate_actions_2025.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q109",
+    "relevant_chunk_ids": [
+      797
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q11",
+    "question": "Why were stocks with available derivatives contracts treated specially in the T+1 transition?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      233
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about dividends, bonus shares, stock splits, record dates, and corporate actions can an investor learn from this document?",
+    "doc_id": "sebi_corporate_actions_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q110",
+    "relevant_chunk_ids": [
+      797
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to depositories, demat accounts, depository participants, and electronic securities are defined in this document?",
+    "doc_id": "sebi_depository_services_2024.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q112",
+    "relevant_chunk_ids": [
+      867
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for depositories, demat accounts, depository participants, and electronic securities?",
+    "doc_id": "sebi_depository_services_2024.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q113",
+    "relevant_chunk_ids": [
+      867
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about depositories, demat accounts, depository participants, and electronic securities can an investor learn from this document?",
+    "doc_id": "sebi_depository_services_2024.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q114",
+    "relevant_chunk_ids": [
+      867
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to SEBI SCORES complaints, escalation, timelines, and grievance redressal are defined in this document?",
+    "doc_id": "sebi_scores_grievance_redressal.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q116",
+    "relevant_chunk_ids": [
+      5891
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for SEBI SCORES complaints, escalation, timelines, and grievance redressal?",
+    "doc_id": "sebi_scores_grievance_redressal.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q117",
+    "relevant_chunk_ids": [
+      5891
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about SEBI SCORES complaints, escalation, timelines, and grievance redressal can an investor learn from this document?",
+    "doc_id": "sebi_scores_grievance_redressal.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q118",
+    "relevant_chunk_ids": [
+      5891
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q12",
+    "question": "What is Demat Debit and Pledge Instruction (DDPI)?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      325
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to REIT structure, units, property income, distributions, and investor risks are defined in this document?",
+    "doc_id": "sebi_reits_2022.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q120",
+    "relevant_chunk_ids": [
+      5611
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for REIT structure, units, property income, distributions, and investor risks?",
+    "doc_id": "sebi_reits_2022.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q121",
+    "relevant_chunk_ids": [
+      5611
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about REIT structure, units, property income, distributions, and investor risks can an investor learn from this document?",
+    "doc_id": "sebi_reits_2022.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q122",
+    "relevant_chunk_ids": [
+      5611
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to InvIT structure, infrastructure assets, distributions, and investor risks are defined in this document?",
+    "doc_id": "sebi_invits_2022.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q124",
+    "relevant_chunk_ids": [
+      3479
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for InvIT structure, infrastructure assets, distributions, and investor risks?",
+    "doc_id": "sebi_invits_2022.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q125",
+    "relevant_chunk_ids": [
+      3479
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about InvIT structure, infrastructure assets, distributions, and investor risks can an investor learn from this document?",
+    "doc_id": "sebi_invits_2022.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q126",
+    "relevant_chunk_ids": [
+      3479
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to ETFs, underlying assets, NAV, exchange trading, tracking, and costs are defined in this document?",
+    "doc_id": "sebi_etfs.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q128",
+    "relevant_chunk_ids": [
+      919
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for ETFs, underlying assets, NAV, exchange trading, tracking, and costs?",
+    "doc_id": "sebi_etfs.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q129",
+    "relevant_chunk_ids": [
+      919
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q13",
+    "question": "What is the maximum brokerage a broker can charge in the capital-market segment?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      344
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about ETFs, underlying assets, NAV, exchange trading, tracking, and costs can an investor learn from this document?",
+    "doc_id": "sebi_etfs.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q130",
+    "relevant_chunk_ids": [
+      919
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to financial goals, budgeting, insurance, investing, diversification, and planning are defined in this document?",
+    "doc_id": "sebi_financial_planning_guide.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q132",
+    "relevant_chunk_ids": [
+      1078
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for financial goals, budgeting, insurance, investing, diversification, and planning?",
+    "doc_id": "sebi_financial_planning_guide.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q133",
+    "relevant_chunk_ids": [
+      1078
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about financial goals, budgeting, insurance, investing, diversification, and planning can an investor learn from this document?",
+    "doc_id": "sebi_financial_planning_guide.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q134",
+    "relevant_chunk_ids": [
+      1124
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to T+0 settlement eligibility, trading, settlement obligations, and risks are defined in this document?",
+    "doc_id": "bse_t0_settlement_faq.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q136",
+    "relevant_chunk_ids": [
+      137
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for T+0 settlement eligibility, trading, settlement obligations, and risks?",
+    "doc_id": "bse_t0_settlement_faq.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q137",
+    "relevant_chunk_ids": [
+      138
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about T+0 settlement eligibility, trading, settlement obligations, and risks can an investor learn from this document?",
+    "doc_id": "bse_t0_settlement_faq.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q138",
+    "relevant_chunk_ids": [
+      138
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q14",
+    "question": "What is margin, and which types of margin can apply when trading securities?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      325
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to BSE primary markets, IPO process, applications, allotment, and listing are defined in this document?",
+    "doc_id": "bse_ipo_investor_guide.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q140",
+    "relevant_chunk_ids": [
+      34
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for BSE primary markets, IPO process, applications, allotment, and listing?",
+    "doc_id": "bse_ipo_investor_guide.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q141",
+    "relevant_chunk_ids": [
+      34
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about BSE primary markets, IPO process, applications, allotment, and listing can an investor learn from this document?",
+    "doc_id": "bse_ipo_investor_guide.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q142",
+    "relevant_chunk_ids": [
+      34
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to rights-issue process, entitlements, application, and investor choices are defined in this document?",
+    "doc_id": "bse_rights_issue_investor_guide.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q144",
+    "relevant_chunk_ids": [
+      104
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for rights-issue process, entitlements, application, and investor choices?",
+    "doc_id": "bse_rights_issue_investor_guide.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q145",
+    "relevant_chunk_ids": [
+      99
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about rights-issue process, entitlements, application, and investor choices can an investor learn from this document?",
+    "doc_id": "bse_rights_issue_investor_guide.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q146",
+    "relevant_chunk_ids": [
+      115
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to peak-margin collection, reporting, collateral, and investor obligations are defined in this document?",
+    "doc_id": "bse_peak_margin_faq.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q148",
+    "relevant_chunk_ids": [
+      95
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for peak-margin collection, reporting, collateral, and investor obligations?",
+    "doc_id": "bse_peak_margin_faq.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q149",
+    "relevant_chunk_ids": [
+      95
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q15",
+    "question": "How does an investor know that an order has been executed?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      326
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about peak-margin collection, reporting, collateral, and investor obligations can an investor learn from this document?",
+    "doc_id": "bse_peak_margin_faq.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q150",
+    "relevant_chunk_ids": [
+      95
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to margin collection, reporting, collateral, and broker responsibilities are defined in this document?",
+    "doc_id": "bse_margin_reporting_guidelines.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q152",
+    "relevant_chunk_ids": [
+      85
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for margin collection, reporting, collateral, and broker responsibilities?",
+    "doc_id": "bse_margin_reporting_guidelines.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q153",
+    "relevant_chunk_ids": [
+      85
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about margin collection, reporting, collateral, and broker responsibilities can an investor learn from this document?",
+    "doc_id": "bse_margin_reporting_guidelines.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q154",
+    "relevant_chunk_ids": [
+      85
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to candlestick patterns, market structure, entries, exits, stop-losses, and money management are defined in this document?",
+    "doc_id": "the_candlestick_trading_bible_kohanfx.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q156",
+    "relevant_chunk_ids": [
+      6819
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for candlestick patterns, market structure, entries, exits, stop-losses, and money management?",
+    "doc_id": "the_candlestick_trading_bible_kohanfx.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q157",
+    "relevant_chunk_ids": [
+      6750
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about candlestick patterns, market structure, entries, exits, stop-losses, and money management can an investor learn from this document?",
+    "doc_id": "the_candlestick_trading_bible_kohanfx.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q158",
+    "relevant_chunk_ids": [
+      6754
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q16",
+    "question": "What does ASBA stand for and what happens to the application money?",
+    "doc_id": "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      361
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to buying and selling shares, orders, brokers, demat, settlement, and investor safeguards are defined in this document?",
+    "doc_id": "sebi_buy_sell_shares_2022.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q160",
+    "relevant_chunk_ids": [
+      683
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for buying and selling shares, orders, brokers, demat, settlement, and investor safeguards?",
+    "doc_id": "sebi_buy_sell_shares_2022.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q161",
+    "relevant_chunk_ids": [
+      683
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about buying and selling shares, orders, brokers, demat, settlement, and investor safeguards can an investor learn from this document?",
+    "doc_id": "sebi_buy_sell_shares_2022.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q162",
+    "relevant_chunk_ids": [
+      683
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to mutual-fund basics, schemes, NAV, risk, and beginner investor choices are defined in this document?",
+    "doc_id": "sebi_mutual_fund_beginners.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q164",
+    "relevant_chunk_ids": [
+      3593
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for mutual-fund basics, schemes, NAV, risk, and beginner investor choices?",
+    "doc_id": "sebi_mutual_fund_beginners.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q165",
+    "relevant_chunk_ids": [
+      3586
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about mutual-fund basics, schemes, NAV, risk, and beginner investor choices can an investor learn from this document?",
+    "doc_id": "sebi_mutual_fund_beginners.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q166",
+    "relevant_chunk_ids": [
+      3593
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to mutual-fund categories, costs, risks, returns, and intermediate concepts are defined in this document?",
+    "doc_id": "sebi_mutual_fund_intermediate.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q168",
+    "relevant_chunk_ids": [
+      3595
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for mutual-fund categories, costs, risks, returns, and intermediate concepts?",
+    "doc_id": "sebi_mutual_fund_intermediate.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q169",
+    "relevant_chunk_ids": [
+      3595
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q17",
+    "question": "Why is a demat account necessary when applying for an IPO?",
+    "doc_id": "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      364
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about mutual-fund categories, costs, risks, returns, and intermediate concepts can an investor learn from this document?",
+    "doc_id": "sebi_mutual_fund_intermediate.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q170",
+    "relevant_chunk_ids": [
+      3595
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to advanced mutual-fund concepts, portfolio construction, taxation, and risk are defined in this document?",
+    "doc_id": "sebi_mutual_fund_advanced.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q172",
+    "relevant_chunk_ids": [
+      3561
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for advanced mutual-fund concepts, portfolio construction, taxation, and risk?",
+    "doc_id": "sebi_mutual_fund_advanced.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q173",
+    "relevant_chunk_ids": [
+      3553
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about advanced mutual-fund concepts, portfolio construction, taxation, and risk can an investor learn from this document?",
+    "doc_id": "sebi_mutual_fund_advanced.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q174",
+    "relevant_chunk_ids": [
+      3553
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to share buybacks, open offers, tendering, pricing, and investor choices are defined in this document?",
+    "doc_id": "sebi_buyback_open_offer.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q176",
+    "relevant_chunk_ids": [
+      763
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for share buybacks, open offers, tendering, pricing, and investor choices?",
+    "doc_id": "sebi_buyback_open_offer.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q177",
+    "relevant_chunk_ids": [
+      763
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about share buybacks, open offers, tendering, pricing, and investor choices can an investor learn from this document?",
+    "doc_id": "sebi_buyback_open_offer.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q178",
+    "relevant_chunk_ids": [
+      763
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to SMART ODR, online dispute resolution, complaint escalation, and settlement are defined in this document?",
+    "doc_id": "sebi_smart_odr.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q180",
+    "relevant_chunk_ids": [
+      5912
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for SMART ODR, online dispute resolution, complaint escalation, and settlement?",
+    "doc_id": "sebi_smart_odr.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q181",
+    "relevant_chunk_ids": [
+      5913
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about SMART ODR, online dispute resolution, complaint escalation, and settlement can an investor learn from this document?",
+    "doc_id": "sebi_smart_odr.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q182",
+    "relevant_chunk_ids": [
+      5913
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to SASMF investor awareness, mutual-fund access, risks, and safeguards are defined in this document?",
+    "doc_id": "sebi_sas_mf.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q184",
+    "relevant_chunk_ids": [
+      5875
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for SASMF investor awareness, mutual-fund access, risks, and safeguards?",
+    "doc_id": "sebi_sas_mf.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q185",
+    "relevant_chunk_ids": [
+      5875
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about SASMF investor awareness, mutual-fund access, risks, and safeguards can an investor learn from this document?",
+    "doc_id": "sebi_sas_mf.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q186",
+    "relevant_chunk_ids": [
+      5875
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for fraud prevention, safe investing, due diligence, scams, and investor protection?",
+    "doc_id": "sebi_investing_safely.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q189",
+    "relevant_chunk_ids": [
+      3020
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q19",
+    "question": "What is the purpose of the margin-pledge mechanism described for capital-market participants?",
+    "doc_id": "nse_pragati_basics_capital_markets_2024.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      410
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about fraud prevention, safe investing, due diligence, scams, and investor protection can an investor learn from this document?",
+    "doc_id": "sebi_investing_safely.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q190",
+    "relevant_chunk_ids": [
+      3020
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about corporate bonds, yields, credit risk, interest risk, and bond investing?",
+    "doc_id": "sebi_corporate_bonds.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q191",
+    "relevant_chunk_ids": [
+      820
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to corporate bonds, yields, credit risk, interest risk, and bond investing are defined in this document?",
+    "doc_id": "sebi_corporate_bonds.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q192",
+    "relevant_chunk_ids": [
+      815
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for corporate bonds, yields, credit risk, interest risk, and bond investing?",
+    "doc_id": "sebi_corporate_bonds.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q193",
+    "relevant_chunk_ids": [
+      818
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about corporate bonds, yields, credit risk, interest risk, and bond investing can an investor learn from this document?",
+    "doc_id": "sebi_corporate_bonds.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q194",
+    "relevant_chunk_ids": [
+      835
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about beginner investing, products, risks, account opening, and investor protection?",
+    "doc_id": "sebi_beginner_investor_guide.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q195",
+    "relevant_chunk_ids": [
+      661
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to beginner investing, products, risks, account opening, and investor protection are defined in this document?",
+    "doc_id": "sebi_beginner_investor_guide.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q196",
+    "relevant_chunk_ids": [
+      638
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for beginner investing, products, risks, account opening, and investor protection?",
+    "doc_id": "sebi_beginner_investor_guide.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q197",
+    "relevant_chunk_ids": [
+      661
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about beginner investing, products, risks, account opening, and investor protection can an investor learn from this document?",
+    "doc_id": "sebi_beginner_investor_guide.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q198",
+    "relevant_chunk_ids": [
+      638
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about primary markets, new issues, IPOs, price discovery, and investors?",
+    "doc_id": "sebi_primary_market_basics.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q199",
+    "relevant_chunk_ids": [
+      5227
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q20",
+    "question": "What is SCORES 2.0 used for?",
+    "doc_id": "nse_pragati_basics_capital_markets_2024.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      435
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to primary markets, new issues, IPOs, price discovery, and investors are defined in this document?",
+    "doc_id": "sebi_primary_market_basics.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q200",
+    "relevant_chunk_ids": [
+      5227
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for primary markets, new issues, IPOs, price discovery, and investors?",
+    "doc_id": "sebi_primary_market_basics.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q201",
+    "relevant_chunk_ids": [
+      5227
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about primary markets, new issues, IPOs, price discovery, and investors can an investor learn from this document?",
+    "doc_id": "sebi_primary_market_basics.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q202",
+    "relevant_chunk_ids": [
+      5266
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about commodity-derivatives terminology, contracts, margins, hedging, and risks?",
+    "doc_id": "sebi_commodity_derivatives_mcq_general.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q203",
+    "relevant_chunk_ids": [
+      782
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to commodity-derivatives terminology, contracts, margins, hedging, and risks are defined in this document?",
+    "doc_id": "sebi_commodity_derivatives_mcq_general.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q204",
+    "relevant_chunk_ids": [
+      782
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for commodity-derivatives terminology, contracts, margins, hedging, and risks?",
+    "doc_id": "sebi_commodity_derivatives_mcq_general.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q205",
+    "relevant_chunk_ids": [
+      782
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about commodity-derivatives terminology, contracts, margins, hedging, and risks can an investor learn from this document?",
+    "doc_id": "sebi_commodity_derivatives_mcq_general.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q206",
+    "relevant_chunk_ids": [
+      782
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about financial-literacy foundations, saving, investing, risk, and securities markets?",
+    "doc_id": "nse_parichay_financial_literacy_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q207",
+    "relevant_chunk_ids": [
+      373
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to financial-literacy foundations, saving, investing, risk, and securities markets are defined in this document?",
+    "doc_id": "nse_parichay_financial_literacy_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q208",
+    "relevant_chunk_ids": [
+      373
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for financial-literacy foundations, saving, investing, risk, and securities markets?",
+    "doc_id": "nse_parichay_financial_literacy_2026.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q209",
+    "relevant_chunk_ids": [
+      373
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q21",
+    "question": "Which activities are associated with monthly or quarterly settlement in the capital-markets material?",
+    "doc_id": "nse_pragati_basics_capital_markets_2024.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      426
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about financial goals, planning, budgeting, insurance, and investment decisions?",
+    "doc_id": "nse_pratham_financial_planning_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q211",
+    "relevant_chunk_ids": [
+      441
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to financial goals, planning, budgeting, insurance, and investment decisions are defined in this document?",
+    "doc_id": "nse_pratham_financial_planning_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q212",
+    "relevant_chunk_ids": [
+      441
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for financial goals, planning, budgeting, insurance, and investment decisions?",
+    "doc_id": "nse_pratham_financial_planning_2026.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q213",
+    "relevant_chunk_ids": [
+      441
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about active investing, research, risk, portfolio decisions, and investor behaviour?",
+    "doc_id": "nse_samriddhi_active_investing_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q215",
+    "relevant_chunk_ids": [
+      490
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to active investing, research, risk, portfolio decisions, and investor behaviour are defined in this document?",
+    "doc_id": "nse_samriddhi_active_investing_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q216",
+    "relevant_chunk_ids": [
+      490
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for active investing, research, risk, portfolio decisions, and investor behaviour?",
+    "doc_id": "nse_samriddhi_active_investing_2026.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q217",
+    "relevant_chunk_ids": [
+      508
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about mutual-fund investing, schemes, NAV, costs, risks, and investor processes?",
+    "doc_id": "sebi_mutual_funds_investing_2024.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q219",
+    "relevant_chunk_ids": [
+      4824
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q22",
+    "question": "What is UPI, and what is a UPI ID or VPA?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      936
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to mutual-fund investing, schemes, NAV, costs, risks, and investor processes are defined in this document?",
+    "doc_id": "sebi_mutual_funds_investing_2024.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q220",
+    "relevant_chunk_ids": [
+      4831
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for mutual-fund investing, schemes, NAV, costs, risks, and investor processes?",
+    "doc_id": "sebi_mutual_funds_investing_2024.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q221",
+    "relevant_chunk_ids": [
+      4824
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "For current mutual-fund compliance, why should the 2026 master circular be checked against an older circular for date and scope?",
+    "doc_id": "sebi_mutual_fund_master_circular_2026.pdf",
+    "category": "conflict-resolution",
+    "answerable": true,
+    "id": "q223",
+    "relevant_chunk_ids": [
+      3828
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to current SEBI mutual-fund compliance, scheme operations, disclosures, and investor protection are defined in this document?",
+    "doc_id": "sebi_mutual_fund_master_circular_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q224",
+    "relevant_chunk_ids": [
+      4515
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for current SEBI mutual-fund compliance, scheme operations, disclosures, and investor protection?",
+    "doc_id": "sebi_mutual_fund_master_circular_2026.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q225",
+    "relevant_chunk_ids": [
+      4515
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What practical decision or procedure about current SEBI mutual-fund compliance, scheme operations, disclosures, and investor protection can an investor learn from this document?",
+    "doc_id": "sebi_mutual_fund_master_circular_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q226",
+    "relevant_chunk_ids": [
+      4704
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about current SEBI mutual-fund regulations, entities, schemes, conduct, and compliance?",
+    "doc_id": "sebi_mutual_funds_regulations_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q227",
+    "relevant_chunk_ids": [
+      4864
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to current SEBI mutual-fund regulations, entities, schemes, conduct, and compliance are defined in this document?",
+    "doc_id": "sebi_mutual_funds_regulations_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q228",
+    "relevant_chunk_ids": [
+      4924
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for current SEBI mutual-fund regulations, entities, schemes, conduct, and compliance?",
+    "doc_id": "sebi_mutual_funds_regulations_2026.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q229",
+    "relevant_chunk_ids": [
+      4864
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q23",
+    "question": "Is UPI mandatory for every public-issue application, or only for certain individual applications?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      936
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about current SEBI REIT requirements, public issues, disclosures, governance, and compliance?",
+    "doc_id": "sebi_reit_master_circular_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q231",
+    "relevant_chunk_ids": [
+      5277
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to current SEBI REIT requirements, public issues, disclosures, governance, and compliance are defined in this document?",
+    "doc_id": "sebi_reit_master_circular_2025.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q232",
+    "relevant_chunk_ids": [
+      5328
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What risks, safeguards, or compliance responsibilities does this document describe for current SEBI REIT requirements, public issues, disclosures, governance, and compliance?",
+    "doc_id": "sebi_reit_master_circular_2025.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "id": "q233",
+    "relevant_chunk_ids": [
+      5277
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about current SEBI InvIT requirements, issues, disclosures, governance, and compliance?",
+    "doc_id": "sebi_invit_master_circular_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q235",
+    "relevant_chunk_ids": [
+      3235
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to current SEBI InvIT requirements, issues, disclosures, governance, and compliance are defined in this document?",
+    "doc_id": "sebi_invit_master_circular_2025.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q236",
+    "relevant_chunk_ids": [
+      3201
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about investment-adviser registration, qualifications, duties, disclosures, and client protection?",
+    "doc_id": "sebi_investment_advisers_regulations_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q239",
+    "relevant_chunk_ids": [
+      3055
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q24",
+    "question": "What is the maximum amount an individual investor can apply for through UPI, and what is the retail-investor limit?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      937
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to investment-adviser registration, qualifications, duties, disclosures, and client protection are defined in this document?",
+    "doc_id": "sebi_investment_advisers_regulations_2025.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q240",
+    "relevant_chunk_ids": [
+      3094
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about government securities, auctions, yields, participants, risks, and RBI market operations?",
+    "doc_id": "rbi_government_securities_market_primer.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q243",
+    "relevant_chunk_ids": [
+      521
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to government securities, auctions, yields, participants, risks, and RBI market operations are defined in this document?",
+    "doc_id": "rbi_government_securities_market_primer.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q244",
+    "relevant_chunk_ids": [
+      521
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about demat-account operation, transmission, pledging, statements, and investor rights?",
+    "doc_id": "nsdl_eguide_demat_account_holders_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q247",
+    "relevant_chunk_ids": [
+      280
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to demat-account operation, transmission, pledging, statements, and investor rights are defined in this document?",
+    "doc_id": "nsdl_eguide_demat_account_holders_2026.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q248",
+    "relevant_chunk_ids": [
+      280
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q25",
+    "question": "What happens to blocked funds when shares are not allotted in a UPI-based public-issue application?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      949
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about CDSL depository services, demat operations, transactions, and investor safeguards?",
+    "doc_id": "cdsl_investor_booklet_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q251",
+    "relevant_chunk_ids": [
+      157
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which key terms, roles, or processes related to CDSL depository services, demat operations, transactions, and investor safeguards are defined in this document?",
+    "doc_id": "cdsl_investor_booklet_2025.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "id": "q252",
+    "relevant_chunk_ids": [
+      157
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about research-analyst registration, research reports, disclosures, conflicts, and conduct?",
+    "doc_id": "sebi_research_analysts_regulations_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q259",
+    "relevant_chunk_ids": [
+      5784
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q26",
+    "question": "What is the Rule of 72 used to estimate?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      964
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about portfolio-manager services, client agreements, disclosures, reporting, and compliance?",
+    "doc_id": "sebi_portfolio_managers_master_circular_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q263",
+    "relevant_chunk_ids": [
+      5066
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about stock-broker obligations, client funds, risk management, trading, and disclosures?",
+    "doc_id": "sebi_stock_brokers_master_circular_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q267",
+    "relevant_chunk_ids": [
+      6460
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q27",
+    "question": "What is SCORES, and what should an investor do before filing a complaint there?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      1058
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about foreign portfolio investors, registration, eligibility, investments, and compliance?",
+    "doc_id": "sebi_foreign_portfolio_investors_regulations_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q271",
+    "relevant_chunk_ids": [
+      1333
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What does the document explain about equity-derivatives risk monitoring, position limits, product controls, and surveillance?",
+    "doc_id": "sebi_equity_derivatives_risk_monitoring_circular_2025.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "id": "q275",
+    "relevant_chunk_ids": [
+      878
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "How do ASBA, UPI mandates, and a mutual-fund SWP differ, and which documents describe each mechanism?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "multi-document",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+      "amfi_mutual_funds_made_simple_2026.pdf"
+    ],
+    "id": "q279",
+    "relevant_chunk_ids": [
+      1,
+      361,
+      936
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q28",
+    "question": "What risks can affect a commodity producer or investor according to the financial-education material?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      1011
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "How do T+0, T+1, and the settlement process in the secondary-market FAQ differ?",
+    "doc_id": "bse_t0_settlement_faq.pdf",
+    "category": "multi-document",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+      "nse_basic_faqs_secondary_market_2023.pdf"
+    ],
+    "id": "q280",
+    "relevant_chunk_ids": [
+      132,
+      233,
+      329
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "How do REITs and InvITs differ according to the investor guides and current master circulars?",
+    "doc_id": "sebi_reits_2022.pdf",
+    "category": "multi-document",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "sebi_invits_2022.pdf",
+      "sebi_reit_master_circular_2025.pdf",
+      "sebi_invit_master_circular_2025.pdf"
+    ],
+    "id": "q281",
+    "relevant_chunk_ids": [
+      3475,
+      3480,
+      5567,
+      5568
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Compare the educational mutual-fund guides with the 2026 mutual-fund master circular when discussing current compliance.",
+    "doc_id": "sebi_mutual_fund_master_circular_2026.pdf",
+    "category": "source-selection",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "sebi_mutual_funds_investing_2024.pdf",
+      "sebi_mutual_fund_beginners.pdf"
+    ],
+    "id": "q282",
+    "relevant_chunk_ids": [
+      3585,
+      4045,
+      4815
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which source should answer a current stock-broker obligation: a beginner booklet or the SEBI stock-brokers master circular?",
+    "doc_id": "sebi_stock_brokers_master_circular_2025.pdf",
+    "category": "source-selection",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "sebi_beginner_investor_guide.pdf"
+    ],
+    "id": "q283",
+    "relevant_chunk_ids": [
+      648,
+      6050
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which source should answer a research-analyst disclosure question: the Research Analysts Regulations or a candlestick book?",
+    "doc_id": "sebi_research_analysts_regulations_2025.pdf",
+    "category": "source-selection",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "the_candlestick_trading_bible_kohanfx.pdf"
+    ],
+    "id": "q284",
+    "relevant_chunk_ids": [
+      5777,
+      6762
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What is a stop-loss order, and how is it different from a study reporting losses by individual traders?",
+    "doc_id": "the_candlestick_trading_bible_kohanfx.pdf",
+    "category": "multi-document",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "sebi_study_profitability_of_individual_traders_in_equity_derivatives_(FY25_26)_2026.pdf"
+    ],
+    "id": "q285",
+    "relevant_chunk_ids": [
+      6896
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q29",
+    "question": "How does ASBA block funds while an IPO application is being processed?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      2949
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Does the presence of a margin rule mean an investor cannot lose more than the margin?",
+    "doc_id": "bse_margin_reporting_guidelines.pdf",
+    "category": "adversarial",
+    "answerable": true,
+    "id": "q293",
+    "relevant_chunk_ids": [
+      83
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Does an investor-protection document guarantee that a complaint will be resolved in the investor?s favour?",
+    "doc_id": "sebi_scores_grievance_redressal.pdf",
+    "category": "adversarial",
+    "answerable": true,
+    "id": "q294",
+    "relevant_chunk_ids": [
+      5897
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "Which source should be preferred for current FPI eligibility, the general booklet or the FPI Regulations, and why?",
+    "doc_id": "sebi_foreign_portfolio_investors_regulations_2025.pdf",
+    "category": "conflict-resolution",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "common_booklet_securities_market_2021.pdf"
+    ],
+    "id": "q295",
+    "relevant_chunk_ids": [
+      195,
+      1250
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "How are demat pledging and broker margin related, and which documents should be consulted for each topic?",
+    "doc_id": "nsdl_eguide_demat_account_holders_2026.pdf",
+    "category": "multi-document",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "sebi_depository_services_2024.pdf",
+      "bse_peak_margin_faq.pdf"
+    ],
+    "id": "q296",
+    "relevant_chunk_ids": [
+      95,
+      268,
+      867
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What numerical value is stated for the Rule of 72, and what does it estimate?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "id": "q297",
+    "relevant_chunk_ids": [
+      970
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What numerical threshold or limit is stated for UPI-based public-issue applications?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "id": "q298",
+    "relevant_chunk_ids": [
+      937
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "What numerical finding about options traders is reported in the FY25-FY26 studies?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "sebi_study_profitability_of_individual_traders_in_equity_derivatives_(FY25_26)_2026.pdf"
+    ],
+    "id": "q299",
+    "relevant_chunk_ids": [
+      6682
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q30",
+    "question": "What is the difference between an IPO, an offer for sale, and an FPO?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "multi-concept",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      2954
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "question": "For a current mutual-fund rule, why should a newer master circular be preferred over an older general booklet?",
+    "doc_id": "sebi_mutual_fund_master_circular_2026.pdf",
+    "category": "conflict-resolution",
+    "answerable": true,
+    "supporting_doc_ids": [
+      "common_booklet_securities_market_2021.pdf"
+    ],
+    "id": "q300",
+    "relevant_chunk_ids": [
+      200,
+      3883
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q301",
+    "question": "What distinction does the commodity-derivatives material make between soft and hard commodities?",
+    "doc_id": "sebi_introduction_commodity_derivatives.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "evaluation_split": "test",
+    "relevance_label_status": "manually_reviewed_source_grounded",
+    "relevant_chunk_ids": [
+      2996
+    ]
+  },
+  {
+    "id": "q302",
+    "question": "Which two broad commodity categories are shown in the commodity-derivatives material?",
+    "doc_id": "sebi_introduction_commodity_derivatives.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "evaluation_split": "development",
+    "relevance_label_status": "manually_reviewed_source_grounded",
+    "relevant_chunk_ids": [
+      2996
+    ]
+  },
+  {
+    "id": "q303",
+    "question": "What topic is introduced by the comparison of soft and hard commodities?",
+    "doc_id": "sebi_introduction_commodity_derivatives.pdf",
+    "category": "conceptual",
+    "answerable": true,
+    "evaluation_split": "development",
+    "relevance_label_status": "manually_reviewed_source_grounded",
+    "relevant_chunk_ids": [
+      2996
+    ]
+  },
+  {
+    "id": "q304",
+    "question": "What are dematerialisation and rematerialisation of securities?",
+    "doc_id": "sebi_depository_services_2024.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "evaluation_split": "test",
+    "relevance_label_status": "manually_reviewed_source_grounded",
+    "relevant_chunk_ids": [
+      840
+    ]
+  },
+  {
+    "id": "q305",
+    "question": "What processes are included in the SEBI depository-services presentation?",
+    "doc_id": "sebi_depository_services_2024.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "evaluation_split": "development",
+    "relevance_label_status": "manually_reviewed_source_grounded",
+    "relevant_chunk_ids": [
+      838
+    ]
+  },
+  {
+    "id": "q31",
+    "question": "What is a cut-off price in a book-built IPO?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "exact-term",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      2974
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q32",
+    "question": "What steps are involved in applying for an IPO using a UPI ID?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "multi-step",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      2958
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q33",
+    "question": "What percentage of individual traders in the equity-derivatives segment were predominantly options buyers in the FY25-FY26 study?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      6675
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q34",
+    "question": "How did the incidence of loss-makers differ between majorly options buyers and majorly options sellers in FY26?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      6696
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q35",
+    "question": "What was the approximate average loss per loss-making majorly-options-seller trader in FY26?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      6675
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q36",
+    "question": "What share of traders used peak margin below Rs. 1 lakh, and what share of turnover did they account for?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      6701
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q37",
+    "question": "What does the FY25-FY26 study say about the relationship between trading frequency and losses?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "lookup",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      6684
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q40",
+    "question": "How does a UPI-based public-issue application relate to ASBA, and what do the UPI and ASBA sources explain about the two mechanisms?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "supporting_doc_ids": [
+      "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+      "sebi_how_to_invest_in_ipo_2022.pdf"
+    ],
+    "category": "multi-document",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      360,
+      936,
+      2958
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q41",
+    "question": "Compare the T+1 settlement roadmap with the settlement process described in the NSE secondary-market FAQs.",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "supporting_doc_ids": [
+      "nse_basic_faqs_secondary_market_2023.pdf"
+    ],
+    "category": "multi-document",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      233,
+      324
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q42",
+    "question": "How does a UPI-based IPO application differ from an IPO application using ASBA submitted through intermediaries?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "supporting_doc_ids": [
+      "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+      "sebi_faq_on_upi_with_asba_updated.pdf"
+    ],
+    "category": "multi-document",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      361,
+      943,
+      2958
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q44",
+    "question": "How should the Rs. 5 lakh UPI application ceiling and the Rs. 2 lakh retail-investor limit be interpreted?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "conflict-resolution",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      937
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q45",
+    "question": "For a current FY25-FY26 trading statistic, why should the 2026 SEBI study be preferred over a general investor-education booklet?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "supporting_doc_ids": [
+      "sebi_financial_education_booklet_2020.pdf"
+    ],
+    "category": "conflict-resolution",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      1001,
+      6668
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q46",
+    "question": "How does a mutual-fund SWP differ from a public-issue UPI mandate, and which source describes each mechanism?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "supporting_doc_ids": [
+      "sebi_faq_on_upi_with_asba_updated.pdf"
+    ],
+    "category": "multi-document",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      9,
+      943
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q47",
+    "question": "If a question asks for a broker's maximum brokerage, why would an IPO FAQ be a weaker source than the NSE secondary-market FAQ?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "supporting_doc_ids": [
+      "nse_faq_on_asba_ipo_for_investors_2023.pdf"
+    ],
+    "category": "source-selection",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      324,
+      360
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q48",
+    "question": "How does an ETF differ from an IPO, based on the mutual-fund guide and the SEBI IPO guide?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "supporting_doc_ids": [
+      "sebi_how_to_invest_in_ipo_2022.pdf"
+    ],
+    "category": "multi-document",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      15,
+      2957
+    ],
+    "evaluation_split": "development",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  },
+  {
+    "id": "q49",
+    "question": "Can the documents establish that every derivatives trader loses money? Explain why or why not.",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "adversarial",
+    "answerable": true,
+    "relevant_chunk_ids": [
+      6692
+    ],
+    "evaluation_split": "test",
+    "relevance_label_status": "evidence_audited_single_best_chunk_per_source"
+  }
+]

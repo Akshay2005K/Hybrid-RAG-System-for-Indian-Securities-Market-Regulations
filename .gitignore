@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local experiment outputs
+evaluation_results*.json
+ablation_results.json
+failure_audit.json
+failure_page_candidates.json
+final_*_test_results.json
+gold_mapping_audit.json
+model_experiment_results.json
+reranker_diagnostic_results.json
+Golden_set_300_clean.json
+Golden_set_300_mapped.json
+Golden_set_300_rule_repaired.json
+
+# Local secrets
+.env
+.env.*
+!.env.example

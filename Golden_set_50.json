@@ -1,0 +1,359 @@
+[
+  {
+    "id": "q01",
+    "question": "What is a Systematic Withdrawal Plan, and how does it differ from redeeming an entire mutual-fund investment at once?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q02",
+    "question": "If I invest Rs. 10 lakh and set up an SWP of Rs. 20,000 per month, what happens to the remaining corpus?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q03",
+    "question": "What is an ETF, and what does its value depend on?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q04",
+    "question": "What is the difference between NAV-based redemption and an exit load in a mutual fund?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q05",
+    "question": "What is a securities market, and what role does it play in moving savings to investment?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q06",
+    "question": "Why can trading derivatives require more understanding of risk than buying an ordinary share?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "conceptual",
+    "answerable": true
+  },
+  {
+    "id": "q07",
+    "question": "What is an Exchange Traded Fund and how is its value linked to the underlying assets?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q08",
+    "question": "What investor-protection or grievance route is described for a complaint that is not resolved by an intermediary?",
+    "doc_id": "common_booklet_securities_market_2021.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q09",
+    "question": "What does T+1 rolling settlement mean in the equity market?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q10",
+    "question": "From what trade date did the roadmap begin introducing T+1 settlement for stocks?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q11",
+    "question": "Why were stocks with available derivatives contracts treated specially in the T+1 transition?",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q12",
+    "question": "What is Demat Debit and Pledge Instruction (DDPI)?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q13",
+    "question": "What is the maximum brokerage a broker can charge in the capital-market segment?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q14",
+    "question": "What is margin, and which types of margin can apply when trading securities?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q15",
+    "question": "How does an investor know that an order has been executed?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q16",
+    "question": "What does ASBA stand for and what happens to the application money?",
+    "doc_id": "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q17",
+    "question": "Why is a demat account necessary when applying for an IPO?",
+    "doc_id": "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q18",
+    "question": "Who are Qualified Institutional Buyers in a book-built issue?",
+    "doc_id": "nse_faq_on_asba_ipo_for_investors_2023.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q19",
+    "question": "What is the purpose of the margin-pledge mechanism described for capital-market participants?",
+    "doc_id": "nse_pragati_basics_capital_markets_2024.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q20",
+    "question": "What is SCORES 2.0 used for?",
+    "doc_id": "nse_pragati_basics_capital_markets_2024.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q21",
+    "question": "Which activities are associated with monthly or quarterly settlement in the capital-markets material?",
+    "doc_id": "nse_pragati_basics_capital_markets_2024.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q22",
+    "question": "What is UPI, and what is a UPI ID or VPA?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q23",
+    "question": "Is UPI mandatory for every public-issue application, or only for certain individual applications?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q24",
+    "question": "What is the maximum amount an individual investor can apply for through UPI, and what is the retail-investor limit?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q25",
+    "question": "What happens to blocked funds when shares are not allotted in a UPI-based public-issue application?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q26",
+    "question": "What is the Rule of 72 used to estimate?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q27",
+    "question": "What is SCORES, and what should an investor do before filing a complaint there?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q28",
+    "question": "What risks can affect a commodity producer or investor according to the financial-education material?",
+    "doc_id": "sebi_financial_education_booklet_2020.pdf",
+    "category": "conceptual",
+    "answerable": true
+  },
+  {
+    "id": "q29",
+    "question": "How does ASBA block funds while an IPO application is being processed?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q30",
+    "question": "What is the difference between an IPO, an offer for sale, and an FPO?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "multi-concept",
+    "answerable": true
+  },
+  {
+    "id": "q31",
+    "question": "What is a cut-off price in a book-built IPO?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "exact-term",
+    "answerable": true
+  },
+  {
+    "id": "q32",
+    "question": "What steps are involved in applying for an IPO using a UPI ID?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "category": "multi-step",
+    "answerable": true
+  },
+  {
+    "id": "q33",
+    "question": "What percentage of individual traders in the equity-derivatives segment were predominantly options buyers in the FY25-FY26 study?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q34",
+    "question": "How did the incidence of loss-makers differ between majorly options buyers and majorly options sellers in FY26?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q35",
+    "question": "What was the approximate average loss per loss-making majorly-options-seller trader in FY26?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q36",
+    "question": "What share of traders used peak margin below Rs. 1 lakh, and what share of turnover did they account for?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "numerical",
+    "answerable": true
+  },
+  {
+    "id": "q37",
+    "question": "What does the FY25-FY26 study say about the relationship between trading frequency and losses?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "lookup",
+    "answerable": true
+  },
+  {
+    "id": "q38",
+    "question": "According to the provided documents, what was the exact FY26 average loss for a trader category not discussed in the documents?",
+    "doc_id": null,
+    "category": "unanswerable",
+    "answerable": false
+  },
+  {
+    "id": "q39",
+    "question": "Does the available text of the profitability study provide a verifiable finding about retail derivatives traders?",
+    "doc_id": null,
+    "category": "unanswerable",
+    "answerable": false
+  },
+  {
+    "id": "q40",
+    "question": "Which document explains both the UPI blocking process and ASBA, and how are the two mechanisms related?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "supporting_doc_ids": ["nse_faq_on_asba_ipo_for_investors_2023.pdf", "sebi_how_to_invest_in_ipo_2022.pdf"],
+    "category": "multi-document",
+    "answerable": true
+  },
+  {
+    "id": "q41",
+    "question": "Compare the T+1 settlement roadmap with the settlement process described in the NSE secondary-market FAQs.",
+    "doc_id": "introduction_of_t1_rolling_settlement_cycle_in_equity_market_nov242022_2022.pdf",
+    "supporting_doc_ids": ["nse_basic_faqs_secondary_market_2023.pdf"],
+    "category": "multi-document",
+    "answerable": true
+  },
+  {
+    "id": "q42",
+    "question": "A user asks about an IPO but never mentions the words ASBA or UPI. Which documents should be considered before answering?",
+    "doc_id": "sebi_how_to_invest_in_ipo_2022.pdf",
+    "supporting_doc_ids": ["nse_faq_on_asba_ipo_for_investors_2023.pdf", "sebi_faq_on_upi_with_asba_updated.pdf"],
+    "category": "routing",
+    "answerable": true
+  },
+  {
+    "id": "q43",
+    "question": "A question contains the word 'loss' but asks about a stop-loss order. Should the derivatives profitability studies automatically be treated as the answer?",
+    "doc_id": null,
+    "category": "adversarial",
+    "answerable": false
+  },
+  {
+    "id": "q44",
+    "question": "A document says UPI applications can be made up to Rs. 5 lakh while the retail limit is Rs. 2 lakh. What is the correct interpretation?",
+    "doc_id": "sebi_faq_on_upi_with_asba_updated.pdf",
+    "category": "conflict-resolution",
+    "answerable": true
+  },
+  {
+    "id": "q45",
+    "question": "Which source should be preferred for a current FY25-FY26 trading statistic over a general investor-education booklet?",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "supporting_doc_ids": ["sebi_financial_education_booklet_2020.pdf"],
+    "category": "conflict-resolution",
+    "answerable": true
+  },
+  {
+    "id": "q46",
+    "question": "What is the difference between a mutual-fund SWP and a public-issue UPI mandate?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "supporting_doc_ids": ["sebi_faq_on_upi_with_asba_updated.pdf"],
+    "category": "multi-document",
+    "answerable": true
+  },
+  {
+    "id": "q47",
+    "question": "If a question asks for a broker's maximum brokerage, why would an IPO FAQ be a weaker source than the NSE secondary-market FAQ?",
+    "doc_id": "nse_basic_faqs_secondary_market_2023.pdf",
+    "supporting_doc_ids": ["nse_faq_on_asba_ipo_for_investors_2023.pdf"],
+    "category": "source-selection",
+    "answerable": true
+  },
+  {
+    "id": "q48",
+    "question": "What is the difference between an ETF described in the mutual-fund guide and an IPO described in the SEBI IPO guide?",
+    "doc_id": "amfi_mutual_funds_made_simple_2026.pdf",
+    "supporting_doc_ids": ["sebi_how_to_invest_in_ipo_2022.pdf"],
+    "category": "multi-document",
+    "answerable": true
+  },
+  {
+    "id": "q49",
+    "question": "Can the documents establish that every derivatives trader loses money? Explain why or why not.",
+    "doc_id": "sebi_study_trading_behaviour_of_individual_traders_(fy25_26)_2026.pdf",
+    "category": "adversarial",
+    "answerable": true
+  },
+  {
+    "id": "q50",
+    "question": "What should the assistant say if none of the 11 PDFs contains the answer to a user's question?",
+    "doc_id": null,
+    "category": "unanswerable",
+    "answerable": false
+  }
+]

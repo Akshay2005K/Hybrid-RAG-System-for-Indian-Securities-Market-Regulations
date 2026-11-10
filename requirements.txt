@@ -1,0 +1,9 @@
+faiss-cpu
+PyMuPDF
+langchain-text-splitters
+numpy
+rank-bm25
+sentence-transformers
+torchvision==0.29.2
+streamlit
+groq
